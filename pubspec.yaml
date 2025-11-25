@@ -1,8 +1,8 @@
-name: stockfish
+name: stockfish_flutter_plus
 description: The Stockfish Chess Engine for Flutter.
-version: 1.7.1
-repository: https://github.com/ArjanAswal/stockfish.git
-homepage: https://github.com/ArjanAswal/stockfish.git
+version: 1.0.0
+homepage: https://github.com/Dexterfury/stockfish_flutter_plus
+repository: https://github.com/Dexterfury/stockfish_flutter_plus
 
 environment:
   sdk: '>=2.17.0 <3.0.0'
@@ -12,7 +12,7 @@ dependencies:
   ffi: ^2.0.0
   flutter:
     sdk: flutter
-  logging: ^1.0.0
+  logging: ^1.3.0
 
 dev_dependencies:
   flutter_test:
