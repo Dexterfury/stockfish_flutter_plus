@@ -5,24 +5,20 @@ A modern, improved Stockfish engine plugin for Flutter — with full Android 16-
 stockfish_flutter_plus is an enhanced and actively maintained fork of the original Stockfish Flutter plugin.
 It provides a simple and efficient API for running the Stockfish chess engine inside your Flutter applications using FFI.
 
-This version includes:
+This version includes:  
+✔ Updated build configuration  
+✔ Correct support for Android’s 16 KB memory page size requirement  
+✔ Automatic NNUE network downloads  
+✔ Cleaned and improved CMake build  
+✔ Full compatibility with modern Flutter and Dart SDKs  
 
-✔ Updated build configuration
-✔ Correct support for Android’s 16 KB memory page size requirement
-✔ Automatic NNUE network downloads
-✔ Cleaned and improved CMake build
-✔ Full compatibility with modern Flutter and Dart SDKs
-
-
-
-### 🚀 Features
-
-🧠 Run Stockfish directly on-device
-⚡ Fast evaluation and UCI commands via FFI
-📱 Works on Android and iOS
-🔧 ARM64 16 KB page support for Google Play compliance
-🤝 Simple asynchronous API
-🟦 Lightweight, no external dependencies
+### 🚀 Features  
+🧠 Run Stockfish directly on-device  
+⚡ Fast evaluation and UCI commands via FFI  
+📱 Works on Android and iOS  
+🔧 ARM64 16 KB page support for Google Play compliance  
+🤝 Simple asynchronous API  
+🟦 Lightweight, no external dependencies  
 🔄 Uses the latest Stockfish NNUE networks
 
 
