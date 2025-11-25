@@ -1,5 +1,6 @@
 name: stockfish_flutter_plus
-description: The Stockfish Chess Engine for Flutter.
+description: A modern Flutter plugin providing the Stockfish chess engine with updated binaries,
+  improved Android support (including 16kb page sizes), and a clean Dart API.
 version: 1.0.0
 homepage: https://github.com/Dexterfury/stockfish_flutter_plus
 repository: https://github.com/Dexterfury/stockfish_flutter_plus
