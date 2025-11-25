@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:logging/logging.dart';
-import 'package:stockfish/stockfish.dart';
-
+import 'package:stockfish_flutter_plus/stockfish_flutter_plus.dart';
 import 'src/output_widget.dart';
 
 void main() {
